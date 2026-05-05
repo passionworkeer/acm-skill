@@ -137,3 +137,21 @@ int main() {
 ## Skill 入口
 
 `C:\Users\wang\.claude\skills\acm-champion\SKILL.md`
+
+## 文档
+
+| 文档 | 内容 |
+|------|------|
+| `docs/getting-started.md` | 安装、快速上手、两道例题 |
+| `docs/algorithm-guide.md` | 按类别（图论/字符串/数学/DS/几何/DP）梳理所有算法 |
+| `docs/api-reference.md` | 10 个高频模板的 API 签名速查 |
+| `references/quick-index.md` | 完整算法速查表（文件名→复杂度→适用场景） |
+| `references/common-patterns.md` | 竞赛常用套路（倍增、分治、离线等） |
+| `problems/*.md` | 按算法分类的经典题解（6 个文件） |
+
+## 贡献
+
+欢迎提交 PR 或 Issue！主要方向：
+- 补充缺失算法实现
+- 增加题解文档
+- 修复 bug 或优化常数

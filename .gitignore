@@ -1,0 +1,22 @@
+# Compiled Object Files
+*.o
+*.obj
+*.exe
+
+# Build output
+a.out
+a.exe
+*.out
+*.exe
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local config (do not commit)
+.claude/settings.local.json
